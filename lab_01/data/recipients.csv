@@ -1,0 +1,1001 @@
+clinicid, name, age, sex, bloodtype, rhfactor, city, priority
+1,Danielle Ramos,48,m,2,1,Moscow,3
+38,Lucas Navarro,66,f,1,0,Sterlitamak,1
+11,Denise Walters,13,o,2,0,JKLM,5
+69,Tracey Coleman,61,m,1,0,Podolsk,2
+87,Amanda May,60,m,4,1,Chelyabinsk,5
+82,Michael Palmer,22,m,2,1,Birobidzhan,4
+96,Katherine Malone,9,f,2,1,Podolsk,2
+49,Carl Wood,36,f,3,0,Lipetsk,5
+66,Matthew Mcclain,73,f,2,1,Kostroma,2
+54,Andrew Anderson,6,m,1,0,Arzamas,5
+83,Ann Long,67,f,2,1,Kaluga,1
+58,Vincent Adams,73,m,1,0,Ulyanovsk,1
+34,David Riley,17,f,2,0,Yaroslavl,4
+3,Ana Hawkins,43,f,1,1,Petropavlovsk-Kamchatsky,1
+81,Miranda Lang,33,f,3,0,Vladivostok,4
+24,Denise Richardson,67,m,3,1,Naberezhnye Chelny,3
+17,Kayla Hale,35,m,4,0,Salekhard,2
+30,Cathy Hoffman,61,m,4,0,Yuzhno-Sakhalinsk,4
+71,Nathan Howard,6,f,4,0,Moscow,5
+95,Dennis Williams,64,f,2,1,Barnaul,5
+1,Vickie Hamilton,63,m,4,1,Moscow,3
+38,Dawn Shannon,0,m,4,0,Sterlitamak,5
+72,Ricky Poole,7,f,2,0,Cherkessk,3
+27,Dawn Beltran,24,m,1,1,Ulyanovsk,3
+93,Mark Bishop,21,m,1,0,Novosibirsk,2
+87,Kristen Murphy,68,f,1,0,Chelyabinsk,3
+24,Debra Lucero,7,m,4,0,Naberezhnye Chelny,2
+88,Adam Jordan,39,m,3,0,Cherkessk,4
+79,Nicole Sanders,24,f,4,1,Zlatoust,1
+80,Phillip Johnson,21,m,2,0,Kyzyl,1
+9,Jack Smith,8,o,3,0,Birobidzhan,2
+13,Brittany Shaffer,63,m,3,0,Cherkessk,4
+3,Mrs. Sandra Torres,73,m,4,1,Petropavlovsk-Kamchatsky,3
+9,Carla Garcia,14,m,4,1,Birobidzhan,2
+29,Miranda Fisher,10,f,1,1,Samara,5
+15,Carlos Townsend,47,m,2,0,Belgorod,3
+41,Michael Greene,38,f,2,1,Novokuznetsk,5
+40,Andre Levy,3,m,1,1,Ulyanovsk,5
+5,Barbara Buck,53,f,3,0,Saint Petersburg,1
+59,Lynn Valenzuela,3,f,1,0,Chelyabinsk,4
+59,Brittany Gibbs,62,f,1,1,Chelyabinsk,3
+12,Michael Hoffman,42,m,4,1,Zlatoust,5
+91,Sharon Hill,34,m,1,0,Chita,4
+33,Elizabeth Roberts,7,f,3,1,Zlatoust,1
+52,Michael Crosby,36,f,3,1,Magas,1
+80,Amy Hernandez,13,m,1,0,Kyzyl,2
+51,Ronald Francis,41,m,1,0,Bryansk,5
+62,Natalie Brooks,49,m,4,1,Angarsk,1
+38,Steven Guzman,16,m,4,0,Sterlitamak,3
+49,Natalie Baxter,69,m,4,1,Lipetsk,5
+8,William Robertson,3,m,1,0,Tver,4
+100,Craig Miller,13,f,4,0,Rostov-on-Don,3
+42,Edward Reilly,40,f,1,1,Stary Oskol,3
+54,Todd Smith,32,f,4,0,Arzamas,3
+76,Michael Roberts,37,f,4,1,Nizhnevartovsk,5
+31,Michael Fox,44,f,3,0,Maykop,2
+67,Jason Brown,35,m,2,1,Magas,1
+56,Jasmine Serrano,50,m,2,1,Velikie Luki,4
+68,Kelly Lee,48,m,2,0,Norilsk,3
+15,Mark Blankenship,55,m,4,1,Belgorod,2
+9,Sandra Skinner,72,f,4,0,Birobidzhan,5
+55,William Hayes,54,m,1,1,Sochi,5
+86,Sean Buchanan,58,m,2,1,Novokuznetsk,3
+14,Alexander Meyer,34,m,3,0,Nizhny Novgorod,2
+91,Rachel Long,24,f,3,0,Chita,3
+77,Heidi Daniels,53,f,4,0,Saratov,3
+27,Misty Johnston,28,m,3,1,Ulyanovsk,1
+99,Frank Mccoy,42,f,4,1,Tolyatti,5
+10,Christina Graves,22,m,1,0,Saratov,3
+63,Danielle Foster,42,f,4,1,Novokuznetsk,4
+79,Courtney Villanueva,72,f,3,0,Zlatoust,2
+76,Susan Heath,21,m,4,1,Nizhnevartovsk,5
+33,Danielle Lara,14,f,2,1,Zlatoust,2
+65,Jessica Richardson,20,f,4,1,Grozny,1
+23,Jay Garcia,8,m,2,0,Tolyatti,4
+53,Cynthia Benton,70,f,2,1,Obninsk,2
+32,Catherine Johnson,40,f,2,0,Norilsk,1
+39,Ian Chan,74,m,1,1,JKLM,4
+77,Anthony Kennedy,22,m,1,0,Saratov,3
+64,Crystal Benson,49,f,4,1,Sergiev Posad,2
+46,Mary Williams DDS,46,f,1,1,Pyatigorsk,2
+53,Lisa Black,48,m,4,1,Obninsk,2
+42,Robert Greene,35,m,1,0,Stary Oskol,1
+43,Diana Williamson,23,m,2,0,Kirov,5
+51,Angelica Richardson,28,f,3,0,Bryansk,1
+28,Heather Ross,48,m,1,0,Pskov,4
+4,Courtney Brown,66,m,1,1,Maykop,2
+10,Terrence Duran,67,f,3,1,Saratov,5
+63,Nicholas Cruz,0,o,1,1,Novokuznetsk,2
+15,Kelly Nelson,11,m,3,0,Belgorod,2
+45,Joshua Harris,50,m,3,0,Rostov-on-Don,1
+44,Maureen Castro,7,f,4,0,Angarsk,5
+57,Travis Mccann,21,m,3,0,Angarsk,4
+66,Larry Ayala,13,f,2,1,Kostroma,4
+10,Kathryn Butler,59,f,1,0,Saratov,1
+84,Shannon Ward,41,f,3,0,Kostroma,3
+57,Kevin Perez,75,f,2,0,Angarsk,2
+44,Lauren Andrade,56,m,3,0,Angarsk,4
+73,Jesse Fowler,24,f,1,1,Kurgan,3
+45,Nicholas Terrell,36,f,3,0,Rostov-on-Don,3
+19,Christopher Walker,6,f,4,0,Stavropol,2
+16,Ana Harvey,6,f,4,1,Ivanovo,1
+59,Shannon Powers,29,o,3,0,Chelyabinsk,2
+44,Mrs. Rachel Brennan,55,f,1,0,Angarsk,2
+68,Pamela Hansen,68,f,3,0,Norilsk,2
+36,Rebecca Clark,37,m,4,1,Podolsk,1
+58,Mary King,60,m,3,0,Ulyanovsk,5
+61,Katelyn Cardenas,11,f,2,1,Sterlitamak,4
+54,Jill Rodriguez,4,m,3,0,Arzamas,5
+83,Mr. Cody Clark,9,f,2,1,Kaluga,1
+55,Gwendolyn Diaz,45,m,2,0,Sochi,3
+81,Paula Williams,27,m,1,0,Vladivostok,2
+13,Sara Clay,30,f,1,0,Cherkessk,2
+22,George Richardson,64,f,1,0,Kaluga,3
+55,Morgan Roberson,35,m,1,0,Sochi,2
+53,Samuel Woodward,10,m,1,0,Obninsk,1
+32,Spencer Mcintyre,59,m,1,1,Norilsk,2
+42,Lindsey Perry,64,m,3,1,Stary Oskol,4
+40,Teresa Keller,44,m,2,0,Ulyanovsk,2
+7,Charles Guerrero,72,m,1,1,Volzhsky,3
+62,Patricia Gomez,75,m,1,0,Angarsk,5
+77,Kevin Davis,49,f,2,0,Saratov,2
+78,Hailey Cooper,60,o,2,1,Krasnodar,5
+34,Elizabeth Roth,62,m,3,0,Yaroslavl,4
+24,Rachel Murphy,6,o,2,0,Naberezhnye Chelny,2
+57,Kirk Anderson,39,f,2,1,Angarsk,1
+11,Joseph Ewing,63,f,3,0,JKLM,1
+41,Jerome Wade,70,f,3,1,Novokuznetsk,5
+96,Justin Castro,37,m,3,0,Podolsk,3
+34,Robert Good,21,f,3,0,Yaroslavl,4
+93,Michael Martin,24,f,2,1,Novosibirsk,2
+35,Matthew Miller,15,f,2,0,Nizhny Tagil,4
+29,Brianna Valdez,52,m,2,0,Samara,3
+18,Kristi Wright,68,m,3,0,Ufa,4
+92,Christopher Miller,54,m,2,0,Nizhnevartovsk,5
+67,Jacqueline Chandler,69,f,4,0,Magas,2
+91,Arthur Yoder,12,f,4,1,Chita,3
+78,George Barton,69,f,3,1,Krasnodar,4
+44,Michael Walsh,15,m,2,1,Angarsk,5
+3,Kevin Boyle,54,m,2,0,Petropavlovsk-Kamchatsky,3
+24,Tara Escobar,1,m,2,1,Naberezhnye Chelny,3
+100,Cameron Miller,31,f,1,0,Rostov-on-Don,3
+95,Garrett Lawrence,66,f,2,1,Barnaul,2
+18,Amber Morris,10,m,1,0,Ufa,5
+69,Nicole Thompson,28,f,1,1,Podolsk,5
+26,Michael Henderson,56,f,3,1,Dzerzhinsk,3
+72,Zachary Johnson,6,m,3,0,Cherkessk,4
+60,Claire Kennedy,28,f,3,0,Rostov-on-Don,3
+15,Virginia Bradley,45,f,1,1,Belgorod,3
+4,Shane Neal,42,f,3,1,Maykop,3
+96,Diana Mccall,9,f,1,0,Podolsk,4
+22,Robert Horton,60,m,1,1,Kaluga,5
+14,Christopher Garcia,47,f,2,1,Nizhny Novgorod,4
+87,Allison Fernandez,34,f,3,0,Chelyabinsk,2
+38,David Dennis,33,m,1,1,Sterlitamak,3
+55,Rachel Thomas,73,f,1,1,Sochi,1
+25,Wanda Mitchell,10,m,4,0,Saransk,3
+83,Andrew Montgomery,3,m,3,0,Kaluga,2
+17,Shane Frederick,42,f,3,0,Salekhard,2
+52,Erin Bailey,39,m,1,0,Magas,3
+100,Jake Williams,28,f,2,1,Rostov-on-Don,2
+36,Megan Hines DVM,65,f,2,0,Podolsk,3
+27,Thomas Ibarra,54,f,4,1,Ulyanovsk,3
+85,Wendy Holden,40,m,1,0,Ulan-Ude,5
+35,Harold Ayers,73,m,1,1,Nizhny Tagil,3
+61,Sara Williams,47,f,2,1,Sterlitamak,3
+85,Grace Lee,40,f,4,1,Ulan-Ude,5
+10,Brianna Armstrong,12,f,4,0,Saratov,1
+45,Stephanie Howell DDS,50,m,3,0,Rostov-on-Don,3
+54,Michael Adams,0,m,4,0,Arzamas,4
+26,Ashley Williams,36,f,3,1,Dzerzhinsk,2
+81,Stuart Rodriguez,47,f,2,0,Vladivostok,1
+64,Nicholas Bell,25,f,4,0,Sergiev Posad,1
+93,Erica Roberts,58,f,4,0,Novosibirsk,1
+49,Nathan Holden,65,o,2,0,Lipetsk,5
+7,Larry Hodges,31,f,1,0,Volzhsky,3
+89,Sean Anderson,32,m,2,1,Grozny,4
+70,Jordan Klein,5,f,1,0,Nefteyugansk,1
+10,Kristen Gardner,66,m,2,0,Saratov,2
+70,Mary Martinez,40,m,2,1,Nefteyugansk,2
+64,Caitlin Gonzalez,27,f,3,0,Sergiev Posad,5
+23,Aaron Jackson,2,f,3,0,Tolyatti,3
+59,Toni Wall,74,f,1,1,Chelyabinsk,4
+75,Carla Soto,50,f,2,0,Salekhard,4
+85,Patrick Jackson,43,m,3,1,Ulan-Ude,3
+96,Howard Clark,15,f,3,1,Podolsk,2
+79,Barbara Ramos,12,f,4,0,Zlatoust,3
+10,Diane Park,71,f,3,0,Saratov,4
+86,Miss Sandra Thompson,42,f,1,0,Novokuznetsk,3
+88,Brittany Graham,28,m,1,0,Cherkessk,2
+23,Jennifer Warren,27,m,4,1,Tolyatti,1
+87,James White,0,f,2,1,Chelyabinsk,2
+98,Joshua Burns,10,f,4,0,Naryan-Mar,5
+36,Brian Wilson,47,f,4,0,Podolsk,3
+88,Aaron Wood,12,o,4,1,Cherkessk,3
+51,Lauren Delacruz,29,f,4,0,Bryansk,3
+87,Nicole Brown,11,f,2,1,Chelyabinsk,1
+60,Jeffrey Cook,12,f,4,1,Rostov-on-Don,1
+39,Carla Gutierrez,3,m,3,0,JKLM,2
+23,Sara Smith,6,m,4,1,Tolyatti,5
+46,Tamara Gallegos,36,f,4,0,Pyatigorsk,3
+50,Randy Colon,43,m,4,1,Murmansk,4
+17,John Williams,36,f,1,0,Salekhard,3
+63,Dillon Briggs,68,f,3,1,Novokuznetsk,1
+90,Katherine Beard,54,m,4,1,Magadan,1
+52,Andrew Martin,43,f,4,1,Magas,4
+30,Erica Lewis,51,f,4,1,Yuzhno-Sakhalinsk,4
+50,Craig Watson,71,f,4,0,Murmansk,3
+88,Kristen Hardin,43,f,1,0,Cherkessk,4
+35,Grant Hernandez,75,f,3,0,Nizhny Tagil,3
+29,Kimberly Davis,11,m,4,0,Samara,2
+40,Monique Bauer,38,f,4,1,Ulyanovsk,4
+71,Cheryl Rice,31,f,2,0,Moscow,4
+71,Jackie Griffin,54,m,4,1,Moscow,4
+7,Sara Adams,6,m,4,0,Volzhsky,2
+66,Jennifer Wilkerson,59,f,2,1,Kostroma,3
+1,Bethany Walters,32,f,4,1,Moscow,2
+41,Michele May,56,m,3,0,Novokuznetsk,2
+100,Melissa Shepherd,12,f,1,0,Rostov-on-Don,3
+41,Dr. Nancy Olson,33,m,4,0,Novokuznetsk,3
+92,Samuel Mueller,47,f,1,1,Nizhnevartovsk,3
+13,Kristen Wheeler,56,f,4,1,Cherkessk,5
+48,Kellie Gallegos,18,m,3,0,Vladimir,2
+51,Thomas Taylor,45,f,4,0,Bryansk,1
+4,Christina Harvey,34,f,3,0,Maykop,5
+26,Christopher Ellis,75,m,2,1,Dzerzhinsk,2
+97,Sarah Vasquez,48,f,3,0,Birobidzhan,1
+13,David Garcia,59,m,3,1,Cherkessk,2
+99,Pamela Montgomery,74,m,1,0,Tolyatti,3
+25,Rebecca Evans,2,m,1,1,Saransk,3
+11,Matthew Flores,5,m,1,0,JKLM,1
+16,Lawrence Hall,2,m,1,1,Ivanovo,1
+25,Cameron Phillips,62,f,2,0,Saransk,2
+69,Tiffany Crawford,29,m,1,1,Podolsk,4
+22,Isabel Montgomery,50,f,3,1,Kaluga,1
+67,Crystal Martinez,70,m,3,0,Magas,1
+63,Taylor Tucker,73,f,2,1,Novokuznetsk,1
+2,Corey Martinez,73,m,3,1,Derbent,5
+9,Derrick Herrera,23,f,4,1,Birobidzhan,4
+69,Jorge Wells,22,f,2,1,Podolsk,4
+15,Anthony Warren,3,m,2,1,Belgorod,3
+59,Julie Fernandez,47,m,4,0,Chelyabinsk,3
+42,Patricia Smith,47,f,3,0,Stary Oskol,1
+37,Rebecca Owen,41,m,3,1,Magnitogorsk,3
+34,Melissa Davis,40,f,4,1,Yaroslavl,5
+4,Michael Lee,36,f,4,1,Maykop,3
+29,Michael Sexton,14,m,2,1,Samara,1
+22,David Sanchez,58,f,1,0,Kaluga,1
+50,David Jackson,39,m,4,0,Murmansk,4
+35,Jose Adams,68,f,1,0,Nizhny Tagil,5
+3,Gina Hansen,44,f,1,0,Petropavlovsk-Kamchatsky,1
+54,Nathan Garza,52,f,1,0,Arzamas,1
+54,David Campbell,46,m,2,1,Arzamas,3
+58,Gregory Patterson,16,f,4,0,Ulyanovsk,3
+98,Joshua Boyd,65,m,4,0,Naryan-Mar,2
+3,Bryan Barnes,32,o,2,1,Petropavlovsk-Kamchatsky,2
+18,John Calderon,51,f,2,0,Ufa,1
+22,Barbara Watson,23,m,3,1,Kaluga,2
+94,Elizabeth Merritt,0,m,4,1,Syktyvkar,2
+2,Molly Yates,56,f,2,0,Derbent,5
+38,John Reeves,16,f,4,0,Sterlitamak,4
+87,Timothy Campbell,0,f,2,1,Chelyabinsk,5
+27,Alexis Montgomery,13,f,2,1,Ulyanovsk,5
+70,Jamie Webster,58,m,1,1,Nefteyugansk,3
+51,James Campos,68,f,1,0,Bryansk,1
+81,Laura Campbell,57,m,3,1,Vladivostok,5
+87,Catherine Guerrero,46,f,2,0,Chelyabinsk,5
+58,Todd Martin,44,f,1,0,Ulyanovsk,5
+72,Jodi Howard,68,f,2,1,Cherkessk,1
+35,Angel Brewer,40,f,3,1,Nizhny Tagil,1
+22,Nathaniel Johnson,47,f,3,0,Kaluga,1
+8,Timothy Lam,58,m,2,1,Tver,2
+12,Stephen Martin,37,m,2,0,Zlatoust,1
+33,Andre Reid,73,f,3,1,Zlatoust,1
+28,Holly Collins,36,m,2,0,Pskov,4
+65,Christina Brown,46,m,4,0,Grozny,3
+62,Ashley Martin,17,f,3,0,Angarsk,2
+11,Dustin Thompson,71,m,1,0,JKLM,2
+26,Christopher Hendricks,67,f,3,1,Dzerzhinsk,3
+37,David Church,12,m,2,0,Magnitogorsk,4
+65,Heather Cummings,55,f,1,0,Grozny,4
+26,Anthony Bryant,41,m,3,0,Dzerzhinsk,3
+27,Carly Jensen,27,m,1,0,Ulyanovsk,1
+24,Michael Mata,63,f,3,0,Naberezhnye Chelny,3
+70,Anita Huang,33,f,1,1,Nefteyugansk,2
+13,Shannon Dalton,74,m,2,1,Cherkessk,5
+15,Stephen Merritt,16,o,3,0,Belgorod,5
+8,Robert Mitchell,17,o,4,1,Tver,5
+13,Michael Gutierrez,47,f,2,0,Cherkessk,4
+60,Donna Moreno,58,f,4,0,Rostov-on-Don,2
+76,Sean Elliott,43,f,4,1,Nizhnevartovsk,4
+7,Julie Garcia,37,m,1,1,Volzhsky,2
+81,Heather Savage,59,f,2,0,Vladivostok,2
+19,Angela Smith,35,f,4,1,Stavropol,2
+30,Anna Johnson,30,f,4,0,Yuzhno-Sakhalinsk,3
+33,Brandi Jones,46,f,2,1,Zlatoust,5
+39,Marissa Gonzalez,23,m,1,0,JKLM,3
+57,Teresa Munoz,41,f,2,1,Angarsk,1
+65,Timothy Frye,69,o,2,0,Grozny,3
+48,Nicole Rosario,16,m,4,1,Vladimir,2
+90,Samantha Mata,37,f,1,1,Magadan,1
+29,Morgan Rivera,15,m,1,1,Samara,2
+30,Tami Harris,68,f,4,1,Yuzhno-Sakhalinsk,3
+18,Brian Green,70,f,1,1,Ufa,2
+7,Danielle Hammond,41,m,4,1,Volzhsky,2
+14,Gregory Jackson,23,f,2,1,Nizhny Novgorod,5
+8,John Mosley,2,f,2,0,Tver,3
+42,Jennifer Holt,19,f,4,0,Stary Oskol,3
+78,Jeff Sullivan,31,m,1,1,Krasnodar,5
+37,Kara Sanchez,73,f,4,1,Magnitogorsk,4
+64,Thomas Brennan,51,f,2,1,Sergiev Posad,2
+16,Barbara Cain,67,f,2,0,Ivanovo,4
+43,Kelly Allen,17,f,1,1,Kirov,5
+31,Cindy Nichols,47,f,1,0,Maykop,3
+98,Kathryn Mitchell,33,o,4,0,Naryan-Mar,3
+18,Benjamin Chavez,8,m,4,1,Ufa,2
+77,Catherine Clements,53,m,2,1,Saratov,3
+97,Jenny Boone,17,f,1,0,Birobidzhan,1
+7,Debra Williams,18,o,3,1,Volzhsky,2
+73,Taylor Mayer,12,f,2,0,Kurgan,5
+67,Marissa Williamson,48,m,4,0,Magas,3
+14,Cory Santana,41,o,4,1,Nizhny Novgorod,2
+15,Ashley Warren,8,m,3,0,Belgorod,1
+32,Nicholas Johnson,60,m,3,1,Norilsk,1
+93,Jared Kennedy,66,m,3,0,Novosibirsk,2
+34,Jesus Blair,50,m,1,1,Yaroslavl,5
+32,James Weaver,1,f,2,1,Norilsk,2
+98,Jennifer Hays,35,m,3,1,Naryan-Mar,3
+86,Michelle Vega,59,m,4,0,Novokuznetsk,1
+48,Jennifer Preston,45,f,3,1,Vladimir,4
+48,Rebecca Scott,22,f,3,0,Vladimir,3
+68,Andrew Wright,32,m,3,0,Norilsk,5
+35,William Lane,1,m,3,0,Nizhny Tagil,4
+82,Matthew Simon,41,f,4,1,Birobidzhan,4
+84,Adam Adams,16,m,4,1,Kostroma,1
+96,Mrs. Sarah Brown MD,12,f,4,0,Podolsk,4
+29,Curtis Smith,18,f,4,1,Samara,2
+25,Joshua Hayes,14,m,3,1,Saransk,3
+96,Evan Smith,67,m,4,1,Podolsk,5
+42,Yvette Brown,39,m,2,0,Stary Oskol,4
+59,David Smith,43,f,2,0,Chelyabinsk,1
+38,Amy Bryant,0,o,3,1,Sterlitamak,1
+100,David Pruitt,24,m,1,1,Rostov-on-Don,4
+34,Eileen Lowe,64,f,1,0,Yaroslavl,3
+6,Zachary Jackson,54,f,1,1,Omsk,5
+57,Nicholas Li,53,f,2,0,Angarsk,3
+33,Glenn Goodwin,68,f,3,0,Zlatoust,2
+41,Chelsea Jones,27,m,2,0,Novokuznetsk,5
+99,Kelly Briggs,1,m,2,1,Tolyatti,5
+15,Michelle Spencer MD,23,f,3,1,Belgorod,1
+81,Teresa Gross,8,m,2,1,Vladivostok,1
+50,Jennifer Cohen,15,m,3,0,Murmansk,1
+73,Daniel Torres,3,f,2,1,Kurgan,2
+34,Kevin Hutchinson,40,m,4,1,Yaroslavl,4
+1,Joshua Gentry,6,f,2,0,Moscow,4
+60,Megan Compton,53,m,2,0,Rostov-on-Don,4
+36,Jamie Lee,14,o,4,0,Podolsk,4
+67,Christina Coleman,39,f,4,0,Magas,1
+71,Robert Snyder,46,f,1,1,Moscow,4
+20,Amy Crawford,2,m,1,0,Tula,2
+3,Stephen Thomas,66,f,2,1,Petropavlovsk-Kamchatsky,2
+74,Maxwell Hayes,28,m,4,0,Salekhard,3
+46,Sheila Douglas,51,m,1,1,Pyatigorsk,1
+16,Judy Gutierrez,22,m,3,0,Ivanovo,4
+41,Paul Schmidt,31,f,3,1,Novokuznetsk,4
+10,Nicholas Olsen,31,f,3,1,Saratov,5
+97,Anna Allison,9,m,1,0,Birobidzhan,3
+2,Gina Zhang,74,f,3,1,Derbent,4
+70,Angela Evans,2,f,3,1,Nefteyugansk,3
+60,Cheryl Gomez,69,f,4,1,Rostov-on-Don,1
+8,Rodney Howard,64,m,2,0,Tver,1
+91,Allen Little,60,m,3,0,Chita,2
+2,Michael Sims,67,m,2,1,Derbent,5
+88,Gloria Rodriguez,62,f,2,0,Cherkessk,5
+19,Timothy Reed,35,m,1,1,Stavropol,2
+100,Maria Barnes,47,m,3,1,Rostov-on-Don,5
+86,Glenn Russell,62,f,2,1,Novokuznetsk,1
+90,Daniel Schneider,43,f,2,0,Magadan,4
+52,Patrick Roth,62,f,4,1,Magas,1
+25,Sheri Davidson,47,f,1,0,Saransk,2
+97,Anne Hernandez,53,f,2,0,Birobidzhan,2
+24,Robert Jones,42,m,4,1,Naberezhnye Chelny,1
+71,Jessica Espinoza,56,m,3,0,Moscow,2
+78,Tamara Clark,29,m,2,1,Krasnodar,2
+41,Lisa Hardin,34,f,1,1,Novokuznetsk,1
+96,Douglas Phillips,50,m,1,1,Podolsk,4
+32,Lisa Garrett,39,f,4,1,Norilsk,2
+56,Laura Mccullough,5,f,2,0,Velikie Luki,4
+47,John Morris,17,m,3,0,Pskov,3
+42,Matthew Martin,47,m,4,0,Stary Oskol,3
+23,Christopher Mccormick,37,f,3,0,Tolyatti,3
+100,Alan Foster,60,m,4,0,Rostov-on-Don,2
+67,Reginald Evans,60,f,2,1,Magas,1
+44,Stephanie Bryant,56,f,4,1,Angarsk,1
+99,Megan Bolton,29,m,3,1,Tolyatti,2
+84,Brian Jimenez,64,f,4,1,Kostroma,5
+47,Philip Pham,63,m,3,0,Pskov,3
+52,Carrie Sanchez,72,m,4,1,Magas,1
+87,William Sanchez,45,f,3,0,Chelyabinsk,4
+90,Caleb Baker,5,m,4,0,Magadan,3
+71,Cynthia Brown,9,m,4,1,Moscow,2
+99,Mitchell Le,43,f,3,1,Tolyatti,4
+96,Anthony Carroll,47,f,1,0,Podolsk,2
+71,Elizabeth Christensen,43,m,4,0,Moscow,3
+2,Aaron Wilson,63,m,2,1,Derbent,2
+46,Wesley Landry,61,m,2,0,Pyatigorsk,3
+13,Brandy Nelson,16,f,4,0,Cherkessk,4
+48,Nicholas Hudson,60,f,2,0,Vladimir,2
+62,Benjamin Hall,28,f,2,1,Angarsk,5
+92,Ryan Miller,39,f,3,1,Nizhnevartovsk,3
+49,Kathryn Rodriguez,25,f,3,0,Lipetsk,2
+62,Levi Reynolds,21,f,2,1,Angarsk,3
+11,Mason Hicks,37,f,1,1,JKLM,4
+40,Kimberly Myers,71,m,2,0,Ulyanovsk,2
+43,Darryl Rose,69,f,2,1,Kirov,1
+83,Nathaniel Love,24,f,1,1,Kaluga,1
+32,Wendy Lowe,69,f,2,1,Norilsk,2
+17,Curtis Cunningham,27,m,3,1,Salekhard,4
+42,Kenneth Smith,58,f,3,0,Stary Oskol,3
+60,Anna Parks,46,m,1,1,Rostov-on-Don,5
+63,David Tanner,12,f,1,1,Novokuznetsk,5
+27,Steven Walker,12,m,2,1,Ulyanovsk,2
+86,Jennifer Vargas,68,f,1,0,Novokuznetsk,5
+62,Jessica Walters,30,f,1,1,Angarsk,5
+17,Hayley Kelly,51,f,2,1,Salekhard,5
+25,Jason Ayers,45,m,3,0,Saransk,3
+63,Wendy Nguyen,34,f,3,0,Novokuznetsk,2
+79,Dustin Edwards,8,f,3,0,Zlatoust,2
+35,Ivan Yoder,46,f,2,0,Nizhny Tagil,1
+85,Melinda Anderson,51,f,3,1,Ulan-Ude,2
+80,Julia Ross,5,f,4,0,Kyzyl,2
+82,Derek Gentry,2,f,2,1,Birobidzhan,3
+98,Robin Jenkins,1,m,4,1,Naryan-Mar,4
+7,Rachel Williams,64,m,1,1,Volzhsky,4
+50,Laura Miller,63,m,2,0,Murmansk,3
+55,Jessica Walker,15,m,1,1,Sochi,1
+15,Joseph Taylor,65,m,4,0,Belgorod,2
+60,Chelsey Anderson,42,m,3,0,Rostov-on-Don,1
+53,Janet Williams,13,o,2,1,Obninsk,5
+97,Robert Gibson,75,m,2,1,Birobidzhan,3
+71,Jonathon Morgan,67,m,3,0,Moscow,2
+43,Joshua Johns,74,f,1,1,Kirov,5
+33,Danny Johnson,51,f,3,0,Zlatoust,1
+60,Peter White,7,f,4,0,Rostov-on-Don,4
+29,Danielle Taylor,56,m,3,1,Samara,5
+9,John Odom,35,f,1,0,Birobidzhan,2
+60,Stephanie Villa,75,f,4,1,Rostov-on-Don,3
+60,Edward Hughes,57,f,2,1,Rostov-on-Don,5
+30,James Graham,24,m,4,1,Yuzhno-Sakhalinsk,4
+43,Greg Martinez,67,m,4,1,Kirov,4
+94,Jessica Kim,45,m,2,0,Syktyvkar,2
+85,Jennifer Strickland,75,f,1,1,Ulan-Ude,2
+5,Amanda Freeman,29,m,3,0,Saint Petersburg,3
+67,John Perez,23,f,1,1,Magas,4
+32,Andrew White,25,o,2,0,Norilsk,5
+50,Savannah Arnold,44,m,4,1,Murmansk,1
+89,Antonio Benitez,66,m,3,0,Grozny,2
+84,Daniel Patel,42,m,4,1,Kostroma,5
+49,Martin Cross,42,f,1,0,Lipetsk,3
+92,Olivia Keller,55,m,2,1,Nizhnevartovsk,5
+15,William Adams,0,f,1,1,Belgorod,4
+62,Jay Russell,28,o,2,0,Angarsk,4
+75,John Gibson,33,m,1,0,Salekhard,5
+25,Sarah Curry,48,m,1,0,Saransk,2
+56,Matthew Kennedy,51,m,1,0,Velikie Luki,5
+9,Dr. Tommy Gray Jr.,21,m,1,0,Birobidzhan,2
+48,Thomas Ruiz,42,m,2,1,Vladimir,4
+83,Mark Lara,62,o,2,1,Kaluga,5
+57,James Watson,48,m,1,1,Angarsk,2
+36,Deborah Taylor,70,m,1,0,Podolsk,2
+47,Jacob Collins,0,m,4,1,Pskov,3
+34,April Deleon,66,m,3,0,Yaroslavl,2
+6,Sheila Armstrong,54,f,3,0,Omsk,5
+30,Brian Harris,34,f,2,1,Yuzhno-Sakhalinsk,1
+43,Valerie Obrien,54,f,4,0,Kirov,3
+28,Diana Hunter,68,m,4,0,Pskov,5
+87,James Williams,14,m,1,1,Chelyabinsk,3
+2,Stephen Smith,8,f,3,0,Derbent,4
+95,Mark Barnes,56,f,4,0,Barnaul,4
+2,Carrie Boyd,61,m,4,0,Derbent,4
+83,Anthony Cook,48,f,4,0,Kaluga,5
+100,Melvin Gonzalez,13,m,2,1,Rostov-on-Don,3
+18,Miss Jennifer Miranda,36,f,4,1,Ufa,1
+89,Stephanie Schultz,73,f,1,0,Grozny,1
+62,Alexis Webb,61,m,2,1,Angarsk,5
+19,Raymond Gomez MD,74,f,1,0,Stavropol,4
+72,Pamela Stephenson,68,m,2,0,Cherkessk,5
+72,Jason Martinez,17,m,1,1,Cherkessk,2
+20,Brent Miller,13,f,2,1,Tula,4
+79,Morgan Bolton,11,m,1,0,Zlatoust,5
+6,Shannon Ford,33,m,3,0,Omsk,5
+29,Thomas Peterson,38,m,2,0,Samara,2
+2,Patricia Mata,67,f,1,0,Derbent,3
+92,Ashley Kennedy,15,m,4,0,Nizhnevartovsk,5
+69,Angela White,59,f,1,0,Podolsk,2
+30,Darlene Long,71,f,4,1,Yuzhno-Sakhalinsk,2
+83,James Hoffman,42,f,1,1,Kaluga,2
+30,Daniel Yoder,53,f,4,1,Yuzhno-Sakhalinsk,1
+38,Fred Simmons,7,f,1,0,Sterlitamak,2
+51,Wayne Tran,74,f,4,0,Bryansk,2
+100,Gloria Roberts,68,f,3,0,Rostov-on-Don,4
+59,Elizabeth Salinas,36,f,2,0,Chelyabinsk,3
+75,Debra Mann,49,f,4,1,Salekhard,3
+74,Katherine Collins,32,m,3,0,Salekhard,2
+63,Patricia Smith,34,f,3,0,Novokuznetsk,4
+50,Keith Mendoza,36,m,4,1,Murmansk,4
+18,Howard Green,10,f,2,1,Ufa,1
+23,David Rodriguez,45,f,3,1,Tolyatti,1
+86,Peter Webb,31,m,3,1,Novokuznetsk,1
+9,John Sullivan,15,m,2,1,Birobidzhan,1
+48,Roberto Foster,72,o,1,0,Vladimir,3
+100,George Francis,27,m,2,1,Rostov-on-Don,4
+26,Gregory Stout,30,f,2,1,Dzerzhinsk,3
+37,Ryan Chang,39,f,3,0,Magnitogorsk,4
+25,Paul Mccarthy,61,m,3,0,Saransk,4
+8,Christopher Hernandez,73,f,4,0,Tver,3
+6,Daniel Thomas,13,m,4,0,Omsk,4
+65,Valerie Conner,21,f,4,0,Grozny,5
+5,Danielle Coleman,28,f,1,0,Saint Petersburg,5
+100,Randall Young,47,m,2,0,Rostov-on-Don,5
+76,Shane Jordan,5,f,2,0,Nizhnevartovsk,2
+1,Joshua Hall DDS,53,m,2,1,Moscow,4
+97,Devon Johnson,20,m,2,1,Birobidzhan,3
+84,Todd Carson,70,m,1,0,Kostroma,5
+41,Jeremy Taylor,17,f,2,1,Novokuznetsk,5
+89,Jennifer Travis,60,m,4,0,Grozny,5
+19,Kevin Zimmerman,44,m,4,1,Stavropol,1
+47,Sarah Ibarra,22,f,2,1,Pskov,5
+95,Rebecca Schultz,45,f,4,0,Barnaul,2
+72,Brett Hernandez,73,m,4,1,Cherkessk,3
+79,Amanda Stephenson,59,m,3,1,Zlatoust,3
+36,Kristen Morris,65,f,1,0,Podolsk,4
+98,Alexander Peters,29,m,2,0,Naryan-Mar,3
+66,Brandon White,9,m,1,1,Kostroma,4
+82,Michele Bentley,58,f,1,1,Birobidzhan,1
+37,Johnny Green,27,f,2,0,Magnitogorsk,4
+53,Timothy Fritz,10,m,4,0,Obninsk,1
+20,Jessica Quinn,18,f,3,0,Tula,1
+11,Thomas Stewart,58,f,4,0,JKLM,4
+79,Nathan Matthews,47,m,1,0,Zlatoust,1
+46,Rachel Boyle,61,m,4,0,Pyatigorsk,4
+77,Regina Browning,49,f,1,0,Saratov,3
+79,Nicholas Sanders,50,f,1,0,Zlatoust,4
+35,William Giles,39,f,4,1,Nizhny Tagil,2
+44,Jason Foster,45,f,4,1,Angarsk,5
+48,Michael Roberts,41,m,2,1,Vladimir,5
+27,Brittany Carter,45,f,2,0,Ulyanovsk,2
+37,James Long MD,19,m,4,1,Magnitogorsk,5
+77,Cynthia Castro,56,m,4,1,Saratov,4
+78,Christopher Johnson,8,f,2,1,Krasnodar,4
+99,Kelly Miller,43,m,1,1,Tolyatti,1
+48,David Martin,45,f,1,1,Vladimir,2
+89,Tanner Bryant,40,f,1,1,Grozny,1
+24,John Gutierrez,73,m,2,0,Naberezhnye Chelny,2
+60,Mr. Juan Mitchell,64,f,2,1,Rostov-on-Don,5
+16,Kendra Watson,10,f,2,1,Ivanovo,3
+68,Lisa Potts,47,m,4,0,Norilsk,1
+64,Lauren Mckinney,13,m,1,1,Sergiev Posad,2
+19,Keith Fowler,31,f,3,0,Stavropol,4
+37,Bethany Reese,1,f,1,1,Magnitogorsk,4
+74,Joe Williams,66,m,2,1,Salekhard,2
+100,Kelsey Kelly,38,m,4,0,Rostov-on-Don,1
+26,Sydney Meyers,38,o,1,0,Dzerzhinsk,5
+59,Timothy Andrade,12,f,3,1,Chelyabinsk,3
+70,Nicole Chavez,0,f,2,1,Nefteyugansk,4
+35,Paula Garrison,31,m,2,0,Nizhny Tagil,3
+99,Stephen Powell,12,f,1,0,Tolyatti,3
+86,Paige Brown,74,f,4,0,Novokuznetsk,1
+47,Melissa Gill,6,f,3,1,Pskov,5
+58,Kimberly Lowery,74,m,1,1,Ulyanovsk,3
+45,Shelby Cooper,35,f,2,0,Rostov-on-Don,4
+74,Larry Howe,7,o,2,1,Salekhard,1
+40,Dalton Morton,51,m,2,1,Ulyanovsk,4
+32,Andrew Myers,65,o,1,1,Norilsk,3
+85,Joseph Berger,38,o,1,1,Ulan-Ude,4
+23,Edward Stevens,15,o,3,0,Tolyatti,2
+52,Alexander Martinez,36,f,2,1,Magas,4
+78,Kimberly Kim,23,m,1,0,Krasnodar,3
+56,Heather Turner,40,f,4,1,Velikie Luki,3
+22,Jason Torres,17,f,3,0,Kaluga,1
+98,Robert Williams,0,f,1,0,Naryan-Mar,4
+45,Julie Thompson,54,m,3,1,Rostov-on-Don,2
+4,Alexis Hurley,74,m,4,1,Maykop,3
+85,Joshua Hamilton,75,f,1,1,Ulan-Ude,4
+24,Elizabeth Bell,12,f,4,1,Naberezhnye Chelny,1
+83,John Tate,69,f,4,1,Kaluga,2
+73,Richard Lindsey,21,m,1,0,Kurgan,3
+48,Latasha Mills,6,f,4,1,Vladimir,2
+46,Colleen Ballard,20,f,3,1,Pyatigorsk,3
+61,Jeffrey Hutchinson,44,f,1,1,Sterlitamak,3
+9,Lisa Skinner,58,f,3,1,Birobidzhan,4
+95,Kenneth Green,74,f,3,1,Barnaul,1
+44,Michelle Brown,8,m,1,0,Angarsk,2
+57,Margaret Gray,19,m,2,0,Angarsk,1
+85,William Bruce,50,f,1,1,Ulan-Ude,3
+15,Terry Taylor,70,m,4,0,Belgorod,4
+80,Jennifer Rush,6,o,4,0,Kyzyl,1
+26,Tyler Lopez,71,f,2,1,Dzerzhinsk,1
+23,Samantha Coleman,2,f,1,0,Tolyatti,3
+5,Douglas Crawford,3,f,4,0,Saint Petersburg,1
+70,Danielle Foster,71,f,4,0,Nefteyugansk,3
+72,Donald Daniels,18,m,3,1,Cherkessk,1
+29,Madison Davis,1,m,2,0,Samara,5
+77,John Jenkins,18,f,1,1,Saratov,4
+93,Casey Ward,50,f,2,1,Novosibirsk,1
+62,Amanda Carr,67,m,4,1,Angarsk,2
+48,James Baker,45,m,3,0,Vladimir,3
+24,Jessica Smith,33,f,3,0,Naberezhnye Chelny,4
+54,Hannah Goodman,16,m,1,1,Arzamas,5
+66,Michelle Moore,61,f,3,1,Kostroma,1
+65,Charles Cummings,61,f,3,1,Grozny,3
+50,Dana Little,18,m,4,1,Murmansk,1
+34,Joshua Ellis,75,m,3,0,Yaroslavl,2
+38,Cameron Morton,14,m,3,0,Sterlitamak,2
+90,Terry Howard,45,o,2,0,Magadan,1
+41,Katherine Price,69,f,4,0,Novokuznetsk,5
+14,Patricia Higgins,16,f,3,0,Nizhny Novgorod,5
+88,Christine Flores,70,m,2,0,Cherkessk,4
+40,Kellie Hamilton,47,m,1,0,Ulyanovsk,1
+37,Teresa Schaefer,47,f,3,1,Magnitogorsk,1
+55,Anna Shelton,68,f,4,0,Sochi,5
+33,Russell Porter,9,m,1,0,Zlatoust,5
+48,Ashley Peterson,37,f,2,0,Vladimir,1
+78,Kathleen Keith,69,f,2,1,Krasnodar,5
+7,Marco Dixon,62,m,2,0,Volzhsky,5
+63,Karen Clark,38,m,3,0,Novokuznetsk,5
+71,Erin Jones,35,f,3,0,Moscow,5
+62,Jordan Scott,2,m,3,1,Angarsk,1
+83,Kerry Webster,74,m,4,1,Kaluga,4
+4,Cory Peterson,63,m,1,1,Maykop,4
+15,Jose Rush,8,m,4,0,Belgorod,5
+11,Nicholas Parker,64,m,4,0,JKLM,2
+8,Daniel Farley,61,f,4,0,Tver,4
+29,Bradley Campbell,18,f,2,0,Samara,2
+70,Aaron Campbell,1,f,3,1,Nefteyugansk,3
+26,Bianca James DDS,61,f,3,1,Dzerzhinsk,2
+32,Heather Harris,46,m,4,0,Norilsk,1
+9,Jason Carpenter,23,m,2,0,Birobidzhan,5
+31,Jessica Knight,5,m,4,1,Maykop,4
+18,Barry Wagner,12,f,3,0,Ufa,4
+54,Jonathan Hernandez,60,m,3,1,Arzamas,2
+37,Susan Cabrera,28,f,4,1,Magnitogorsk,3
+10,Miguel Hamilton,42,f,1,0,Saratov,2
+36,Lauren Hamilton,29,f,4,0,Podolsk,1
+24,Christine Gillespie,10,f,3,1,Naberezhnye Chelny,4
+18,Jodi Ford,3,f,1,0,Ufa,5
+86,Anthony Haas,30,f,3,0,Novokuznetsk,5
+32,Shannon Chen,50,f,4,1,Norilsk,2
+62,Victoria Hernandez,20,m,3,1,Angarsk,2
+55,Mr. George Adkins,59,f,3,0,Sochi,4
+26,Shannon Bradley,32,m,3,1,Dzerzhinsk,3
+77,Ashley Little,1,f,3,1,Saratov,1
+25,Brandon Santos,50,f,2,0,Saransk,4
+41,Meghan Callahan,27,m,4,1,Novokuznetsk,2
+4,Jeffery Cervantes,22,m,2,0,Maykop,4
+7,Ariel Williams,50,f,3,0,Volzhsky,1
+98,Joshua Decker,23,f,2,0,Naryan-Mar,2
+78,Cheryl Johnson,18,f,3,0,Krasnodar,5
+10,Rachel Salazar,15,f,3,0,Saratov,2
+13,James Chavez,2,m,3,1,Cherkessk,4
+89,Lauren Brown,13,m,1,1,Grozny,3
+26,Christine Morris,70,f,2,1,Dzerzhinsk,4
+80,Jonathan Hernandez,63,m,2,0,Kyzyl,2
+47,Sabrina Garcia,5,f,3,0,Pskov,2
+95,Shannon Reid,3,f,3,1,Barnaul,2
+79,Jennifer Green,49,m,3,0,Zlatoust,5
+65,Michael Barton,19,m,1,0,Grozny,4
+50,Alexandra Kelly,5,f,2,1,Murmansk,3
+6,Mckenzie Hatfield,14,m,4,1,Omsk,3
+43,David Owen,64,m,1,1,Kirov,2
+25,Melissa Guzman,64,f,2,0,Saransk,5
+69,Joseph Soto,40,m,1,0,Podolsk,4
+92,Richard Cross,25,f,2,1,Nizhnevartovsk,2
+66,Charlene York,9,f,3,1,Kostroma,5
+98,Michael Ford,9,f,4,0,Naryan-Mar,4
+14,Amanda Wilson,19,f,3,1,Nizhny Novgorod,4
+73,Kathy Terry,0,m,3,1,Kurgan,3
+56,Justin Armstrong,61,f,2,0,Velikie Luki,2
+38,Mrs. Jennifer Terry,55,m,3,1,Sterlitamak,5
+58,Christian Murphy,29,f,1,1,Ulyanovsk,3
+97,Larry Garcia,70,f,3,0,Birobidzhan,4
+68,Mary Miller,0,f,4,0,Norilsk,2
+9,Ebony Hernandez,30,m,1,1,Birobidzhan,2
+49,Corey Estes,20,m,1,0,Lipetsk,1
+66,Chelsea Juarez,17,f,1,0,Kostroma,5
+82,Kevin Schneider,42,m,2,1,Birobidzhan,5
+47,Vincent Long,26,m,3,1,Pskov,4
+65,Shawn Hayes,44,m,2,1,Grozny,4
+85,Deborah Tran,66,m,1,0,Ulan-Ude,5
+23,Stephen Garcia,74,o,1,1,Tolyatti,3
+10,Crystal Schneider,38,f,4,1,Saratov,2
+46,Paul Miller,66,f,3,1,Pyatigorsk,2
+26,Vicki Russell,39,m,4,1,Dzerzhinsk,2
+14,Laura Kelley,33,f,4,0,Nizhny Novgorod,2
+30,Matthew Martin,69,m,2,1,Yuzhno-Sakhalinsk,1
+64,Jill Ware,4,m,3,1,Sergiev Posad,2
+8,Melissa Ball,59,m,1,0,Tver,1
+40,David Gomez,42,m,3,1,Ulyanovsk,2
+29,Anthony Griffin,56,m,1,1,Samara,2
+60,Jasmine Decker,65,f,1,1,Rostov-on-Don,1
+71,Gina Rice,15,m,3,0,Moscow,1
+63,Brandon Bell,44,o,3,0,Novokuznetsk,2
+67,Vincent Stewart,46,f,2,0,Magas,1
+28,Mary Johnson,2,m,4,1,Pskov,4
+97,Sarah Kelly,31,m,1,0,Birobidzhan,2
+43,George Miles,72,f,4,1,Kirov,4
+77,Edward York,25,m,2,1,Saratov,5
+97,Michael Jones,74,f,3,1,Birobidzhan,2
+34,Sharon Williams,42,m,1,0,Yaroslavl,5
+1,Kevin Conrad,75,f,1,0,Moscow,4
+24,Connie Mitchell,32,m,4,0,Naberezhnye Chelny,5
+15,Patrick Jones,60,m,2,0,Belgorod,4
+3,Crystal Kennedy,20,f,3,1,Petropavlovsk-Kamchatsky,4
+66,Sharon Brown,32,m,2,0,Kostroma,3
+100,Mark Ellis,72,f,3,1,Rostov-on-Don,2
+24,Christopher Davila,59,m,2,0,Naberezhnye Chelny,5
+56,Stephanie Bright,70,m,2,0,Velikie Luki,3
+14,Sarah Pierce,8,m,1,0,Nizhny Novgorod,2
+77,Peter Jones,39,m,1,0,Saratov,2
+41,Harry Brown,60,m,3,1,Novokuznetsk,5
+93,Amber Edwards,53,m,4,0,Novosibirsk,3
+36,Lisa Stevens,66,m,1,0,Podolsk,4
+79,Jerry Osborne,0,f,3,0,Zlatoust,5
+88,Cindy Farrell,9,m,3,1,Cherkessk,4
+28,Danielle Harris,50,m,4,0,Pskov,3
+87,Christopher Keith,12,m,4,1,Chelyabinsk,4
+5,Donna Adams,72,f,3,0,Saint Petersburg,3
+3,Nicholas Jones,41,m,4,0,Petropavlovsk-Kamchatsky,1
+13,Maria Williams,52,f,2,0,Cherkessk,4
+82,John Thomas,49,f,4,0,Birobidzhan,2
+96,Alexander Brown,71,m,1,1,Podolsk,3
+59,Brianna Baxter DDS,37,m,4,1,Chelyabinsk,2
+11,Destiny Hill,53,f,3,0,JKLM,5
+84,Debra Murray,62,m,2,0,Kostroma,2
+61,Gregory Hansen,20,f,4,1,Sterlitamak,5
+30,John Wright,61,f,4,0,Yuzhno-Sakhalinsk,2
+41,Roberto Walker,53,f,1,1,Novokuznetsk,2
+77,Wesley Myers,67,f,1,0,Saratov,4
+68,Spencer King,73,m,4,0,Norilsk,3
+31,David Bates,70,o,2,0,Maykop,1
+55,Tara Eaton,47,f,2,0,Sochi,4
+98,Natalie Jones,35,f,2,1,Naryan-Mar,2
+95,Carol Moran MD,66,f,3,1,Barnaul,3
+58,Stephen Ferguson,60,f,2,0,Ulyanovsk,4
+67,Joel Lane,12,m,1,0,Magas,3
+5,Barry Bonilla,63,f,1,1,Saint Petersburg,2
+61,Morgan Lowe,44,f,2,0,Sterlitamak,1
+15,Mindy Shelton,36,m,2,0,Belgorod,5
+13,Michelle Cole,46,f,2,1,Cherkessk,4
+49,Deanna Owens,64,f,1,0,Lipetsk,1
+98,Christine Gutierrez,69,m,2,0,Naryan-Mar,1
+60,Andrew Peterson,32,f,1,0,Rostov-on-Don,2
+57,Edward Simpson,72,f,4,1,Angarsk,3
+49,Drew Garcia,12,m,4,0,Lipetsk,3
+75,Nicholas Jones,43,m,3,1,Salekhard,4
+28,April Mendoza,24,m,2,0,Pskov,1
+80,Brandy Acosta,27,f,1,1,Kyzyl,4
+58,Joshua Smith,61,f,4,0,Ulyanovsk,1
+37,Matthew Sexton,56,o,4,0,Magnitogorsk,4
+9,Brandi Noble,6,f,2,0,Birobidzhan,3
+25,Timothy Carter,49,m,1,1,Saransk,1
+8,Matthew Poole,25,m,1,1,Tver,1
+36,Daniel Lucero,3,m,1,0,Podolsk,5
+89,Erin Peters,48,m,4,0,Grozny,4
+74,David Gibson,71,m,4,0,Salekhard,1
+82,Tammy Salinas,27,m,3,1,Birobidzhan,2
+17,Eddie Rodriguez,51,m,2,0,Salekhard,5
+95,Stephen Mason,55,o,4,1,Barnaul,2
+34,Ricardo Arias,68,o,4,1,Yaroslavl,4
+21,Sydney Hanson,55,m,3,0,Ryazan,2
+80,Jason Gray,49,m,3,0,Kyzyl,2
+64,Tara Wiley,4,f,4,1,Sergiev Posad,1
+32,Brian Thomas,2,m,1,1,Norilsk,3
+8,Elizabeth Hernandez,17,m,1,0,Tver,2
+54,Helen Brown,23,f,1,1,Arzamas,3
+4,Robert Bradford,1,m,1,0,Maykop,5
+19,Amanda Larson,63,f,4,1,Stavropol,4
+95,William Phillips,64,o,2,1,Barnaul,3
+60,Yolanda Jarvis,30,m,4,0,Rostov-on-Don,2
+50,Jonathan Mcmahon,43,f,2,1,Murmansk,4
+83,Mary Landry,47,o,2,1,Kaluga,1
+9,Elizabeth Washington,8,f,4,1,Birobidzhan,2
+52,Margaret Daniel,34,f,4,0,Magas,1
+60,Lisa Oliver,14,f,1,1,Rostov-on-Don,3
+51,Paul Perry,56,m,3,0,Bryansk,2
+96,Paige Doyle,9,m,3,0,Podolsk,3
+47,Gregory Sullivan,63,m,3,1,Pskov,5
+67,Barbara Carlson,43,f,4,1,Magas,3
+12,Valerie Taylor,25,m,3,1,Zlatoust,2
+8,Mr. Timothy Vasquez,33,m,3,1,Tver,1
+29,Christian Oliver,43,m,2,1,Samara,4
+38,Katherine King,11,m,1,1,Sterlitamak,3
+15,Richard Walker,59,f,4,0,Belgorod,5
+87,Dominic Mccarty,41,f,1,1,Chelyabinsk,4
+41,Mary Guerrero,23,f,4,1,Novokuznetsk,2
+69,Colleen Torres,59,m,3,0,Podolsk,3
+97,Haley Phillips,38,f,1,0,Birobidzhan,2
+67,Karen Brown,4,f,2,1,Magas,5
+29,Jeffrey White Jr.,50,f,4,1,Samara,1
+38,Christopher Snyder,18,m,2,1,Sterlitamak,5
+86,Katie Gonzales,17,o,1,0,Novokuznetsk,1
+81,Jose Velez,7,m,3,1,Vladivostok,1
+75,Madison Bird,60,o,3,0,Salekhard,1
+82,Kelly Mcguire,6,m,4,0,Birobidzhan,2
+57,Benjamin Scott,8,m,1,1,Angarsk,1
+97,Anthony Wright,43,f,4,0,Birobidzhan,3
+32,Darren Massey,72,m,3,0,Norilsk,3
+96,Kenneth Glass,66,f,4,0,Podolsk,1
+26,Rachel Johnson,73,m,3,1,Dzerzhinsk,1
+19,Roy Luna,69,f,1,0,Stavropol,5
+14,Ariel Murillo,11,m,4,0,Nizhny Novgorod,2
+80,Nicole Collier,48,f,2,1,Kyzyl,3
+86,Gary Chandler,11,f,2,0,Novokuznetsk,1
+71,Jennifer Ramos,59,f,4,0,Moscow,1
+17,Christopher Martin,5,m,3,1,Salekhard,2
+96,Deborah Lucero,26,f,4,1,Podolsk,1
+8,Scott Joseph,10,m,3,0,Tver,4
+27,April White,46,f,2,0,Ulyanovsk,3
+22,Robin Knox,23,m,2,0,Kaluga,1
+35,Nicole Miller,1,m,3,0,Nizhny Tagil,1
+9,Lori Johnson,68,m,4,1,Birobidzhan,2
+64,Clinton Long,58,f,1,0,Sergiev Posad,2
+73,Thomas Kennedy,68,m,2,0,Kurgan,5
+97,Jamie Love DVM,43,o,4,0,Birobidzhan,3
+69,William Parker,2,m,4,1,Podolsk,1
+20,David Thompson DDS,44,f,4,0,Tula,5
+8,Juan Clark,27,m,2,1,Tver,1
+59,Thomas Owens,0,m,4,0,Chelyabinsk,3
+26,Vicki Smith,41,m,2,0,Dzerzhinsk,2
+14,Shannon Larson,73,f,3,0,Nizhny Novgorod,1
+45,Carmen Cook,50,m,4,1,Rostov-on-Don,4
+61,Cameron Padilla,24,f,2,0,Sterlitamak,5
+60,Jordan Berg,21,f,1,1,Rostov-on-Don,1
+16,Danny Knight,47,f,1,1,Ivanovo,5
+5,Robert Maynard,13,o,1,0,Saint Petersburg,4
+67,Kristin Marsh,27,f,2,1,Magas,4
+54,Bruce Harris,66,f,2,1,Arzamas,1
+13,Jasmine Santos,38,f,4,1,Cherkessk,4
+35,Shane Rosales,42,m,4,0,Nizhny Tagil,1
+89,Laura Carter,25,f,2,1,Grozny,4
+93,Jessica Carrillo,27,o,4,0,Novosibirsk,4
+68,David Shaffer,44,m,4,1,Norilsk,2
+22,Marcus Gonzalez,20,f,1,0,Kaluga,5
+73,Monica Reed,35,f,4,1,Kurgan,4
+59,Roberto Hart,56,f,1,0,Chelyabinsk,4
+82,Heather Anderson,48,m,3,1,Birobidzhan,4
+24,Mr. Robert Collins,34,m,3,1,Naberezhnye Chelny,4
+9,Kathleen Novak,33,f,2,0,Birobidzhan,5
+57,James Myers,39,f,1,0,Angarsk,5
+30,Eric Stevens,42,m,2,1,Yuzhno-Sakhalinsk,5
+54,Wayne Williams,74,m,2,1,Arzamas,3
+64,Albert Martin,61,m,4,1,Sergiev Posad,1
+43,Amanda Jones,74,m,4,1,Kirov,3
+14,Deanna Taylor MD,56,f,4,0,Nizhny Novgorod,1
+45,Stephanie Davis,70,f,3,0,Rostov-on-Don,2
+15,Lisa Ramirez,66,f,4,0,Belgorod,3
+66,Aaron Martinez,62,f,1,1,Kostroma,3
+7,Peter Miller,49,m,3,1,Volzhsky,4
+53,Joanne Dunn,41,f,4,0,Obninsk,1
+33,Lisa Mullins,10,f,1,1,Zlatoust,3
+23,Gabriel Walker,33,m,2,0,Tolyatti,5
+29,Samuel Brennan,43,m,1,1,Samara,3
+2,Kent Williams,33,f,1,0,Derbent,2
+28,Michael Peterson,72,m,1,1,Pskov,5
+65,Karen King,20,m,4,1,Grozny,1
+2,Sarah Villarreal,6,f,2,1,Derbent,2
+96,Jeffery Reynolds,38,f,3,1,Podolsk,2
+3,Angela Chapman,43,f,3,0,Petropavlovsk-Kamchatsky,5
+26,Nicholas Roman,25,m,1,0,Dzerzhinsk,1
+16,Gregory Craig,24,m,2,0,Ivanovo,5
+54,Christopher Perez,74,f,1,1,Arzamas,3
+50,Jimmy Macdonald,35,m,1,1,Murmansk,3
+70,Monique Thomas,3,f,2,0,Nefteyugansk,4
+96,John Young,64,o,2,0,Podolsk,1
+72,Jordan Moreno,19,m,2,0,Cherkessk,1
+6,Bonnie Coleman,30,f,3,0,Omsk,1
+50,Amber Rodriguez,9,f,2,1,Murmansk,4
+58,Brandon Monroe,50,f,4,0,Ulyanovsk,2
+88,Joshua Sullivan,70,f,2,1,Cherkessk,4
+82,Timothy Richardson,34,f,1,1,Birobidzhan,3
+10,Megan Park,20,m,1,0,Saratov,5
+37,John Simmons,69,f,2,1,Magnitogorsk,2
+72,William Warner,47,m,4,0,Cherkessk,4
+93,Sara Edwards,14,o,2,0,Novosibirsk,3
+34,Ryan Ellis,72,f,2,1,Yaroslavl,3
+78,Chelsea Huang,3,f,2,1,Krasnodar,1
+69,Carolyn Perry DDS,19,f,1,0,Podolsk,1
+40,Shawn Scott,14,m,2,1,Ulyanovsk,3
+69,Morgan Taylor,32,f,2,1,Podolsk,2
+61,Adrienne Walker,67,m,2,1,Sterlitamak,5
+27,Kevin Robbins,39,f,4,1,Ulyanovsk,4
+6,Bryan Miller,71,f,4,1,Omsk,4
+84,Mark Benitez,11,m,3,0,Kostroma,2
+28,Hannah Marquez,73,m,1,1,Pskov,5
+21,Thomas Jones,17,f,1,1,Ryazan,3
+76,Justin Jackson,8,f,4,1,Nizhnevartovsk,1
+99,Lisa Wagner,64,m,4,1,Tolyatti,1
+9,Angela Kim,37,m,4,1,Birobidzhan,1
+50,Scott Wood,59,m,4,1,Murmansk,4
+56,Michael Bowman,49,m,1,0,Velikie Luki,1
+5,Dennis Evans,2,f,3,0,Saint Petersburg,5
+16,Savannah Ford,48,f,4,0,Ivanovo,1
+49,Julia Dunn,2,m,1,0,Lipetsk,1
+37,Rebecca Robbins,5,f,1,1,Magnitogorsk,2
+72,Jacob Brown,16,m,4,1,Cherkessk,2
+28,Anthony Campbell,20,m,4,0,Pskov,2
+72,Joshua Franklin,5,m,3,1,Cherkessk,4
+76,Johnny French,48,m,3,1,Nizhnevartovsk,1
+26,Frank Walker,18,f,1,0,Dzerzhinsk,1
+41,Alyssa Estrada,68,f,1,0,Novokuznetsk,3
+88,Latoya Parks,67,m,3,1,Cherkessk,3
+89,Monique Baker,7,m,1,1,Grozny,2
+30,Jacqueline Herrera,14,f,1,1,Yuzhno-Sakhalinsk,3
+65,Gregory Smith,0,f,2,1,Grozny,1
+70,Lauren Day,70,m,1,0,Nefteyugansk,1
+31,Mary Salas,59,f,1,0,Maykop,4
+65,Richard Wheeler,18,m,1,0,Grozny,1
+24,Donald Warner,4,m,4,0,Naberezhnye Chelny,4
+86,Amy Vance,48,m,4,1,Novokuznetsk,4
+64,Heidi Gonzalez,16,f,1,0,Sergiev Posad,1
+88,Jessica Vaughn,67,f,3,0,Cherkessk,1
+6,Michael Cooper,51,f,3,1,Omsk,2
+100,William Mccullough,13,f,2,1,Rostov-on-Don,1
+87,Noah Morales,29,m,2,1,Chelyabinsk,5
+79,Amber Long,47,m,4,0,Zlatoust,1
+69,Brandon Silva,57,m,1,1,Podolsk,1
+75,Douglas Wilson,0,m,1,0,Salekhard,4
+44,John Haynes,52,f,3,0,Angarsk,2
+29,Natalie Henry,61,f,2,1,Samara,5
+78,Timothy Marshall,27,f,2,0,Krasnodar,4
+88,Colton Lucero,17,f,4,1,Cherkessk,4
+70,Cassandra Hunt,66,f,2,0,Nefteyugansk,3
+17,Crystal Powell,61,f,2,0,Salekhard,1
+35,Eric Yates,38,m,2,1,Nizhny Tagil,4
+60,Joseph Mayer,30,f,3,0,Rostov-on-Don,5
+41,Karen Clark,72,f,1,0,Novokuznetsk,4
+6,Stacy Terry,26,f,3,1,Omsk,4
+24,Margaret Craig,21,m,4,0,Naberezhnye Chelny,1
+14,Alexandra Wilson,52,f,3,1,Nizhny Novgorod,1
+97,Ralph Thomas,54,f,1,0,Birobidzhan,2
+10,Gwendolyn Thomas,23,m,1,1,Saratov,4
+95,William Morris,47,m,3,1,Barnaul,5
+13,Joyce Edwards,61,f,3,1,Cherkessk,3
+51,Marissa Hale,46,f,4,1,Bryansk,4
+84,Haley Harrington,25,m,2,0,Kostroma,4
+76,Stephanie Webb,46,m,1,0,Nizhnevartovsk,5
+60,Christopher Lynch,52,f,1,1,Rostov-on-Don,4
+70,Scott Wells,16,m,1,0,Nefteyugansk,1
+21,Peter Smith,50,f,3,0,Ryazan,1
+13,John Johnson,9,f,1,1,Cherkessk,1
+78,Kristin Farrell,29,m,4,1,Krasnodar,1
+36,Kimberly Wells,50,m,3,0,Podolsk,3
+6,Stephanie House,11,f,1,0,Omsk,4
+59,Kayla Carey,57,f,2,1,Chelyabinsk,4
+29,Erica Hill,5,f,2,1,Samara,1
+10,Michael Sutton,33,f,2,1,Saratov,3
+13,Jose Hunter,26,f,4,0,Cherkessk,3
+57,Jessica Cordova,40,f,2,1,Angarsk,3
+68,Roger Chavez,23,f,3,0,Norilsk,2
+38,Patrick Perez,28,f,1,1,Sterlitamak,3
+89,Sara Gonzalez,26,f,1,0,Grozny,3
+46,Lindsay Davis,35,f,4,1,Pyatigorsk,1
+89,Katherine Garza,29,f,2,1,Grozny,2
+59,Hannah Hunter,32,m,3,1,Chelyabinsk,2
+43,David Mercado,71,f,1,0,Kirov,1
+12,Michael Mcclure,15,f,2,0,Zlatoust,4
+52,Lindsey Larsen,36,m,3,1,Magas,1
+48,Daniel Cervantes,31,m,1,0,Vladimir,5
+43,Kent Marsh,46,m,1,0,Kirov,2
+84,Michael Price,32,m,2,0,Kostroma,2
+31,Joseph Travis,51,f,3,0,Maykop,1
+70,Brittney Baker,67,f,1,1,Nefteyugansk,3
+90,Dr. Eddie Winters,67,f,2,0,Magadan,5
+7,Michelle Oconnell,2,m,1,0,Volzhsky,5
+57,Colin Scott PhD,58,m,1,0,Angarsk,4
+85,Michael Calderon,62,f,4,0,Ulan-Ude,2
+52,Monique Hunter,3,m,1,0,Magas,4
+34,Kimberly West,27,m,4,0,Yaroslavl,3
+38,Dr. Heather Maxwell MD,35,m,2,0,Sterlitamak,1
+67,Deborah Rich,72,f,3,1,Magas,4
+82,Courtney Baker,52,f,2,0,Birobidzhan,4
+52,Eric Smith,68,f,3,0,Magas,5
+37,Kimberly Jacobs,34,m,4,0,Magnitogorsk,4
+75,Candace Olson,14,m,4,1,Salekhard,4
+78,Rebecca Wang,45,f,4,0,Krasnodar,3
+62,Jasmine Roberts,41,f,4,1,Angarsk,4
+95,Sheila Chavez,67,m,2,1,Barnaul,5
+10,Rhonda Chambers,11,f,1,1,Saratov,2
+46,Craig Miller,63,f,3,0,Pyatigorsk,2
+9,Jasmine Mcdonald,65,f,1,1,Birobidzhan,5
+79,Dawn Edwards,5,m,2,1,Zlatoust,2
+24,Natasha Peters,30,m,3,1,Naberezhnye Chelny,1
+35,Jesse Galloway,52,m,1,1,Nizhny Tagil,4
+72,Zachary Hudson,2,f,1,1,Cherkessk,4
+94,Karen Baker,13,m,1,0,Syktyvkar,4
+26,Jonathan Baker,20,f,2,1,Dzerzhinsk,5
+47,John Moore,42,f,2,1,Pskov,4
+96,Haley Herrera,33,m,4,0,Podolsk,5
+76,Sarah Baxter,34,o,3,0,Nizhnevartovsk,5
+13,Dana Thomas,30,m,1,0,Cherkessk,3
